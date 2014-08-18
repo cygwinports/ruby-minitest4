@@ -1,0 +1,9 @@
+inherit rubygem
+
+NAME="ruby-minitest"
+VERSION=2.12.1
+RELEASE=1
+CATEGORY="Ruby"
+SUMMARY="Ruby testing framework"
+DESCRIPTION="minitest provides a complete suite of testing facilities
+supporting TDD, BDD, mocking, and benchmarking."
