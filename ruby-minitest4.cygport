@@ -1,9 +1,10 @@
+ORIG_PN="minitest"
 inherit rubygem
 
-NAME="ruby-minitest"
-VERSION=2.12.1
+NAME="ruby-minitest4"
+VERSION=4.7.5
 RELEASE=1
 CATEGORY="Ruby"
-SUMMARY="Ruby testing framework"
+SUMMARY="Ruby testing framework, version 4.x"
 DESCRIPTION="minitest provides a complete suite of testing facilities
 supporting TDD, BDD, mocking, and benchmarking."
