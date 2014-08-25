@@ -9,6 +9,8 @@ SUMMARY="Ruby testing framework, version 4.x"
 DESCRIPTION="minitest provides a complete suite of testing facilities
 supporting TDD, BDD, mocking, and benchmarking."
 
+ARCH=noarch
+
 PKG_NAMES="${NAME} ${NAME}-doc"
 ruby_minitest4_CONTENTS=${RUBYGEM_INSTDIR#/}" "${RUBYGEM_SPEC#/}
 ruby_minitest4_doc_CONTENTS=${RUBYGEM_DOCDIR#/}
